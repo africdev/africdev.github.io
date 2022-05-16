@@ -1,1 +1,1 @@
-This is my CV and a small portfolio of websites.
+This is my CV and my portfolio of projects.
