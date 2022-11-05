@@ -5,11 +5,11 @@
 	- General -
     - Preloader -
 	- Header -
-    - home section -
-    - About section -
-    - Knowledge section -
-    - projects section -
-    - Contact section -
+    - home  -
+    - About -
+    - Knowledge  -
+    - projects  -
+    - Contact  -
     - Responsive media queries -
 */
 
@@ -288,7 +288,7 @@ a.active {
 }
 
 
-/* home section
+/* home 
 ==================================================*/
 
 #home {
@@ -308,7 +308,7 @@ a.active {
 }
 
 
-/* about section
+/* about 
 ==================================================*/
 
 section{
@@ -460,7 +460,7 @@ border-radius: 50%;
     font-weight: bold;
   } 
 
-/* skills section
+/* skills
 ==================================================*/
 
 /* Style the Image Used to open new tab */
@@ -853,7 +853,7 @@ to {
     font-size: 14px;
 }
 
-/* experience section
+/* experience
 ==================================================*/
 
 #experience {
@@ -974,7 +974,7 @@ to {
 }
 
 
-/* projects section
+/* projects 
 ==================================================*/
 
 .portfolio .categories-grid span {

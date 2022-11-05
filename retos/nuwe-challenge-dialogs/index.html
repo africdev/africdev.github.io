@@ -96,8 +96,6 @@
 
         $(document).ready(function() {
 
-            // We have two control functions that show or hide dialogs
-
             function showDialog(id){
 
                 // Find the dialog and show it
@@ -155,7 +153,7 @@
             // Here, we are listening for clicks on the "show dialog" buttons,
             // and showing the correct dialog
 
-            $('.dialog-show-button').on('click', function () {
+            $('.dialog-show-button').on('click tap', function () {
 
                 // Take the contents of the  "data-show-dialog" attribute
                 var toShow = $(this).data('show-dialog');
